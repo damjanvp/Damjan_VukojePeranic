@@ -1,0 +1,71 @@
+html {
+    font-size: 100%
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: rgb(0, 122, 114);
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+ul {
+
+    line-height: 30px;
+}
+
+ol {
+    line-height: 30px;
+}
+
+p.link {
+    text-align: left;
+}
+
+span.grf {
+    color: rgb(0, 255, 195);
+    font-style: italic;
+}
+
+span.zgb {
+    font-weight: bold;
+    color: rgb(251, 255, 0);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
+
+ul.foto {
+    list-style: none;
+}
+
+a:link {
+    color: rgb(151, 255, 77);
+}
+
+a:visited {
+    color: rgb(89, 214, 0);
+}
+
+a:hover {
+    color: rgb(198, 255, 157);
+}
